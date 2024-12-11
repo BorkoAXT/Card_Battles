@@ -21,3 +21,6 @@ Card Battle games are turn-based strategy games where players use custom decks t
 
 ### Method.cs
 * Here is every method uesed in this project.
+
+### Links for Songs
+* Here is the link for the songs: https://drive.google.com/drive/folders/1CIGQb2Peuhro1PIy33cl6ITd1ZFaCh0s?usp=drive_link
