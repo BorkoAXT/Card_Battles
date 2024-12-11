@@ -20,4 +20,4 @@ Card Battle games are turn-based strategy games where players use custom decks t
 * This is the main code of the project. This folder contains the main logic of the game.
 
 ### Method.cs
-* Here is every moethod uesed in this project.
+* Here is every method uesed in this project.
