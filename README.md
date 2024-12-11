@@ -22,5 +22,15 @@ Card Battle games are turn-based strategy games where players use custom decks t
 ### Method.cs
 * Here is every method uesed in this project.
 
-### Links for Songs
+# Links for Songs
 * Here is the link for the songs: https://drive.google.com/drive/folders/1CIGQb2Peuhro1PIy33cl6ITd1ZFaCh0s?usp=drive_link
+
+## Tutorial To Add Songs
+1. Go to the google drive
+2. Download Each song
+3. After that, go to file explorer and copy the path of each the songs
+4. Go to the project file and open GameOfWar.cs
+5. Go to the SoundMedia variables that start from the 30th line.
+6. In the brackets after the '@' remove the already existing url and put the one copied previously corresponding to the song name.
+7. You're Done.
+
