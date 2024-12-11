@@ -34,3 +34,8 @@ Card Battle games are turn-based strategy games where players use custom decks t
 6. In the brackets after the '@' remove the already existing url and put the one copied previously corresponding to the song name.
 7. You're Done.
 
+### Settings
+Type 'help' to see all available commands
+'Win' Makes the first player win
+'Lose' makes the first player lose
+'Settings' to go to settings
